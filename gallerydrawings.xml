@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GALLERY COLUMNS="2" XPOSITION="30" YPOSITION="30" WIDTH="100" HEIGHT="100">
+	<delay val="500"/>
+	<fade val="1"/>
+	<first val="2000"/>
+
+	<frameleft val="20"/>
+	<frameright val="20"/>
+	<frametop val="20"/>
+	<framebottom val="20"/>
+
+	<cols val="4"/>
+	<rows val="2"/>
+	<xpos val="327"/>
+	<ypos val="90"/>
+	<xstep val="160"/>
+	<ystep val="210"/>
+
+	<thumbWidth val="150"/>
+	<thumbHeight val="195"/>
+	<thumbFrameWidth val="3"/>
+	<thumbFrameColor val="0xFFFFFF"/>
+	<thumbFrameAlpha val="0.1"/>
+	<thumbFrameAlphaMax val="1"/>
+
+	<buttonBackX val="860"/>
+	<buttonBackY val="525"/>
+	<buttonForwardX val="900"/>
+	<buttonForwardY val="525"/>
+
+	<grayX val="0"/>
+	<grayY val="0"/>
+	<grayWidth val="960"/>
+	<grayHeight val="600"/>
+	<grayColor val="0x020202"/>
+	<grayAlpha val="0.85"/>
+
+	<fullImageMaxWidth val="670"/>
+	<fullImageMaxHeight val="493"/>
+	<fullImageCenterX val="590"/>
+	<fullImageCenterY val="252"/>
+	<fullImageBorder val="1"/>
+	<fullImageBorderColor val="0x777777"/>
+	<fullImageBorderAlpha val=".8"/>
+	<fullImageBorderWidth val="5"/>
+
+	<hasTitle val="1"/>
+	<TitleX val="350"/>
+	<TitleY val="505"/>
+	<TitleWidth val="480"/>
+	<TitleHeight val="30"/>
+	<TitleSize val="16"/>
+	<TitleColor val="0xC0C0C0"/>
+	<TitleBorderColor val="0x00FF00"/>
+	<hasTitleBorder val="0"/>
+	<hasTitleWrap val="1"/>
+
+	<hasDesc val="1"/>
+	<DescX val="400"/>
+	<DescY val="522"/>
+	<DescWidth val="380"/>
+	<DescHeight val="40"/>
+	<DescSize val="16"/>
+	<DescColor val="0xC0C0C0"/>
+	<DescBorderColor val="0x000FF0"/>
+	<hasDescBorder val="0"/>
+	<hasDescWrap val="1"/>
+
+	<maxNumberPages val="20"/>
+
+	<thumbPath val="galthumb/" />
+	<fullPath val="galimages/" />
+
+<IMAGE>
+  <FULL>IMG_1812.jpg</FULL>
+  <THUMB>IMG_1812.jpg</THUMB>
+  <TITLE>First Bow</TITLE>
+  <DESC>charcoal and pastel, 41"x 29,5", 2010</DESC>
+  <SIZE>1</SIZE>
+</IMAGE>
+<IMAGE>
+  <FULL>IMG_1822.Edit.jpg</FULL>
+  <THUMB>IMG_1822.Edit.jpg</THUMB>
+  <TITLE>Second Bow</TITLE>
+  <DESC>charcoal and pastel, 41"x 29,5", 2010</DESC>
+  <SIZE>1</SIZE>
+</IMAGE>
+<IMAGE>
+  <FULL>IMG_1830.jpg</FULL>
+  <THUMB>IMG_1830.jpg</THUMB>
+  <TITLE>My Piano</TITLE>
+  <DESC>charcoal and pastel, 41"x 29,5", 2010</DESC>
+  <SIZE>1</SIZE>
+</IMAGE>
+<IMAGE>
+  <FULL>IMG_4770_Edit_2.jpg</FULL>
+  <THUMB>IMG_4770_Edit_2.jpg</THUMB>
+  <TITLE>Pernambuco</TITLE>
+  <DESC>charcoal and pastel, 41"x 29,5", 2010</DESC>
+  <SIZE>1</SIZE>
+</IMAGE>
+<IMAGE>
+  <FULL>IMG_6131.Edit.jpg</FULL>
+  <THUMB>IMG_6131.Edit.jpg</THUMB>
+  <TITLE>Killed Violin</TITLE>
+  <DESC>charcoal, 44"x 30", 2012</DESC>
+  <SIZE>1</SIZE>
+</IMAGE>
+<IMAGE>
+  <FULL>IMG_5476.jpg</FULL>
+  <THUMB>IMG_5476.jpg</THUMB>
+  <TITLE>A Letter In Notes</TITLE>
+  <DESC>charcoal and pastel, 41"x 29,5", 2010</DESC>
+  <SIZE>1</SIZE>
+</IMAGE>
+<IMAGE>
+  <FULL>IMG_6001.Edit.jpg</FULL>
+  <THUMB>IMG_6001.Edit.jpg</THUMB>
+  <TITLE>A Bow And A Letter</TITLE>
+  <DESC>charcoal, pastel, suminagashi, collage, 41"x 29,5", 2010</DESC>
+  <SIZE>1</SIZE>
+</IMAGE>
+<IMAGE>
+  <FULL>IMG_4778.Edit.jpg</FULL>
+  <THUMB>IMG_4778.Edit.jpg</THUMB>
+  <TITLE>A Shadow (Broken Hair)</TITLE>
+  <DESC>charcoal and pastel, 41"x 29,5", 2010</DESC>
+  <SIZE>1</SIZE>
+</IMAGE>
+<IMAGE>
+  <FULL>IMG_5184.jpg</FULL>
+  <THUMB>IMG_5184.jpg</THUMB>
+  <TITLE>The Violin</TITLE>
+  <DESC>charcoal and pastel, 44"x 30", 2011</DESC>
+  <SIZE>1</SIZE>
+</IMAGE>
+<IMAGE>
+  <FULL>IMG_5305.jpg</FULL>
+  <THUMB>IMG_5305.jpg</THUMB>
+  <TITLE>Two Violins</TITLE>
+  <DESC>graphite, charcoal and pastel, 44"x 30", 2011</DESC>
+  <SIZE>1</SIZE>
+</IMAGE>
+<IMAGE>
+  <FULL>IMG_4784.Edit.jpg</FULL>
+  <THUMB>IMG_4784.Edit.jpg</THUMB>
+  <TITLE>No Name</TITLE>
+  <DESC>charcoal, gesso,     20"x 26", 2011</DESC>
+  <SIZE>1</SIZE>
+</IMAGE>
+<IMAGE>
+  <FULL>IMG_3885.Edit.jpg</FULL>
+  <THUMB>IMG_3885.Edit.jpg</THUMB>
+  <TITLE>Profile</TITLE>
+  <DESC>charcoal, gesso,     20"x 26", 2011</DESC>
+  <SIZE>1</SIZE>
+</IMAGE>
+<IMAGE>
+  <FULL>IMG_4766.Edit.jpg</FULL>
+  <THUMB>IMG_4766.Edit.jpg</THUMB>
+  <TITLE>The Harp</TITLE>
+  <DESC>charcoal, 44"x 30", 2011</DESC>
+  <SIZE>1</SIZE>
+</IMAGE>
+<IMAGE>
+  <FULL>IMG_5934.Edit.jpg</FULL>
+  <THUMB>IMG_5934.Edit.jpg</THUMB>
+  <TITLE>Sketches: English Red Varnish, The Curves Of The Body,...</TITLE>
+  <DESC>charcoal, watercolor, 20"x 26" each, 2010</DESC>
+  <SIZE>1</SIZE>
+</IMAGE>
+<IMAGE>
+  <FULL>IMG_6142.jpg</FULL>
+  <THUMB>IMG_6142.jpg</THUMB>
+  <TITLE>Quartet</TITLE>
+  <DESC>charcoal and pastel, 30"x 44", 2012</DESC>
+  <SIZE>2</SIZE>
+</IMAGE>
+<IMAGE>
+  <FULL>IMG_1666.Edit.jpg</FULL>
+  <THUMB>IMG_1666.Edit.jpg</THUMB>
+  <TITLE>The Shape of the Body</TITLE>
+  <DESC>charcoal, watercolor, 20"x 26", 2010</DESC>
+  <SIZE>1</SIZE>
+</IMAGE>
+<IMAGE>
+  <FULL>IMG_1669.jpg</FULL>
+  <THUMB>IMG_1669.jpg</THUMB>
+  <TITLE>Fired Wood, detail</TITLE>
+  <DESC>charcoal, watercolor, 20"x 26", 2010</DESC>
+  <SIZE>1</SIZE>
+</IMAGE>
+<IMAGE>
+  <FULL>IMG_4780.jpg</FULL>
+  <THUMB>IMG_4780.jpg</THUMB>
+  <TITLE>From the Family</TITLE>
+  <DESC>charcoal and pastel,  29,5"x 41", 2010</DESC>
+  <SIZE>2</SIZE>
+</IMAGE>
+<IMAGE>
+  <FULL>IMG_5917.Edit.jpg</FULL>
+  <THUMB>IMG_5917.Edit.jpg</THUMB>
+  <TITLE>Only Strings</TITLE>
+  <DESC>pastel, collage, 20"x26", 2010</DESC>
+  <SIZE>2</SIZE>
+</IMAGE>
+<IMAGE>
+  <FULL>IMG_1674.Edit.jpg</FULL>
+  <THUMB>IMG_1674.Edit.jpg</THUMB>
+  <TITLE>The Curves Of The Body</TITLE>
+  <DESC>charcoal, watercolor, 20"x 26", 2010</DESC>
+  <SIZE>1</SIZE>
+</IMAGE>
+<IMAGE>
+  <FULL>IMG_1663.Edit.jpg</FULL>
+  <THUMB>IMG_1663.Edit.jpg</THUMB>
+  <TITLE>English Red Varnish</TITLE>
+  <DESC>charcoal, watercolor, 20"x 26", 2010</DESC>
+  <SIZE>1</SIZE>
+</IMAGE>
+<IMAGE>
+  <FULL>IMG_5928.Edit..jpg</FULL>
+  <THUMB>IMG_5928.Edit..jpg</THUMB>
+  <TITLE>Both At Rest, The Bow, one of two works</TITLE>
+  <DESC>charcoal, 20"x 26", 2010</DESC>
+  <SIZE>2</SIZE>
+</IMAGE>
+<IMAGE>
+  <FULL>IMG_5924.Edit.jpg</FULL>
+  <THUMB>IMG_5924.Edit.jpg</THUMB>
+  <TITLE>Both At Rest, The Violin, one of two works</TITLE>
+  <DESC>charcoal, 20"x 26", 2010</DESC>
+  <SIZE>2</SIZE>
+</IMAGE>
+<IMAGE>
+  <FULL>IMG_1640.Edit.jpg</FULL>
+  <THUMB>IMG_1640.Edit.jpg</THUMB>
+  <TITLE>Both At Rest, in progress</TITLE>
+  <DESC>charcoal, 20"x 26", 2010</DESC>
+  <SIZE>4</SIZE>
+</IMAGE>
+
+
+</GALLERY>

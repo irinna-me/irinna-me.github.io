@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slideshow>
+	<delay val="3000"/>
+	<fade val="2"/>
+	<first val="500"/>
+	<frameleft val="10"/>
+	<frameright val="10"/>
+	<frametop val="30"/>
+	<framebottom val="40"/>
+	<border val="0"/>
+	<borderColor val="0x00FF00"/>
+	<borderAlpha val="0.2"/>
+	<borderAlphaMax val="1"/>
+	<borderWidth val="10"/>
+	<image src="images/IMG_1812.jpg"/>
+	<image src="images/IMG_1822.jpg"/>
+	<image src="images/IMG_1830.jpg"/>
+</slideshow>

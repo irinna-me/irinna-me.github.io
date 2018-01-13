@@ -1,0 +1,65 @@
+﻿<?xml version="1.0"?>
+<Slides>
+<slideNode jpegURL="2b583b7b6adc.jpg" thumbURL="2b583b7b6adct.jpg" jpegWidth="383" jpegHeight="540">My Piano, charcoal and pastel, 41&quot;x 29,5&quot;, 2010</slideNode>
+<slideNode jpegURL="3b1e513c456f.jpg" thumbURL="3b1e513c456ft.jpg" jpegWidth="386" jpegHeight="540">Second Bow</slideNode>
+<slideNode jpegURL="885f027e77e7.jpg" thumbURL="885f027e77e7t.jpg" jpegWidth="384" jpegHeight="540">First Bow</slideNode>
+<slideNode jpegURL="83a407744b87.jpg" thumbURL="83a407744b87t.jpg" jpegWidth="385" jpegHeight="540">A Letter In Notes</slideNode>
+<slideNode jpegURL="443b04edb7c9.jpg" thumbURL="443b04edb7c9t.jpg" jpegWidth="389" jpegHeight="540">A Shadow</slideNode>
+<slideNode jpegURL="f401286723c8.jpg" thumbURL="f401286723c8t.jpg" jpegWidth="360" jpegHeight="540">A Bow And A Letter</slideNode>
+<slideNode jpegURL="c817e9f76096.jpg" thumbURL="c817e9f76096t.jpg" jpegWidth="386" jpegHeight="540">Pernambucco</slideNode>
+<slideNode jpegURL="f39c820279fe.jpg" thumbURL="f39c820279fet.jpg" jpegWidth="720" jpegHeight="510">From The Family</slideNode>
+<slideNode jpegURL="2c10c6eac8ff.jpg" thumbURL="2c10c6eac8fft.jpg" jpegWidth="720" jpegHeight="519">Only Strings</slideNode>
+<slideNode jpegURL="5c16ce1fa3f1.jpg" thumbURL="5c16ce1fa3f1t.jpg" jpegWidth="720" jpegHeight="311">Both At Rest, dyptich</slideNode>
+<slideNode jpegURL="1c3dc00eef19.jpg" thumbURL="1c3dc00eef19t.jpg" jpegWidth="720" jpegHeight="480">Both At Rest, detail</slideNode>
+<slideNode jpegURL="9e3a060073d0.jpg" thumbURL="9e3a060073d0t.jpg" jpegWidth="720" jpegHeight="480">Both At Rest, detail</slideNode>
+<slideNode jpegURL="70d2047033c0.jpg" thumbURL="70d2047033c0t.jpg" jpegWidth="720" jpegHeight="480">Both At Rest, detail</slideNode>
+<slideNode jpegURL="1d55281e5fef.jpg" thumbURL="1d55281e5feft.jpg" jpegWidth="720" jpegHeight="480">Both At Rest, detail</slideNode>
+<slideNode jpegURL="ae08250b7370.jpg" thumbURL="ae08250b7370t.jpg" jpegWidth="720" jpegHeight="480">Both At Rest, detail</slideNode>
+<slideNode jpegURL="c2b7b79b66a.jpg" thumbURL="c2b7b79b66at.jpg" jpegWidth="720" jpegHeight="480">Both At Rest, detail</slideNode>
+<slideNode jpegURL="1006077ae84e.jpg" thumbURL="1006077ae84et.jpg" jpegWidth="720" jpegHeight="480">Both At Rest, detail</slideNode>
+<slideNode jpegURL="f5c32c4ca8ed.jpg" thumbURL="f5c32c4ca8edt.jpg" jpegWidth="720" jpegHeight="480">Both At Rest, detail</slideNode>
+<slideNode jpegURL="8439ad11fa4e.jpg" thumbURL="8439ad11fa4et.jpg" jpegWidth="360" jpegHeight="540">Sketches: English Red Varnish, The Curves Of The Body, The Shape Of The Body, Fired Wood</slideNode>
+<slideNode jpegURL="d9ab3b35279c.jpg" thumbURL="d9ab3b35279ct.jpg" jpegWidth="360" jpegHeight="540">English Red Varnish</slideNode>
+<slideNode jpegURL="493db02c605b.jpg" thumbURL="493db02c605bt.jpg" jpegWidth="360" jpegHeight="540">The Shape Of The Body</slideNode>
+<slideNode jpegURL="843ad6a9d6a0.jpg" thumbURL="843ad6a9d6a0t.jpg" jpegWidth="393" jpegHeight="540">Fired Wood</slideNode>
+<slideNode jpegURL="199464f26121.jpg" thumbURL="199464f26121t.jpg" jpegWidth="360" jpegHeight="540">The Curves Of The Body</slideNode>
+<slideNode jpegURL="238063377c46.jpg" thumbURL="238063377c46t.jpg" jpegWidth="359" jpegHeight="540">In The Air</slideNode>
+<slideNode jpegURL="2b4c9692d98b.jpg" thumbURL="2b4c9692d98bt.jpg" jpegWidth="360" jpegHeight="540">In The Air</slideNode>
+</Slides>
+<setup>
+	<infoNode 
+		sliderposxshift="true"
+		of=" of "
+		sec="sec"
+		PhotoWMax= "650"  
+		PhotoHMax= "450" 
+		captionx="440" 
+		captiony="565" 
+		mymusictrack = ""  
+		thumbblocklength="8" 
+		fontcolor="0x000000"  
+		sliderposx = "568"
+		sliderposy = "4"
+		slidervis="true" 
+		verticalthumbs ="true" 
+		slideimagein="true" 
+		slideinimagenudge="false" 
+		thumbxLoc= "50"  
+		photoYLoc="0" 
+		photoXLoc="40" 
+		thumbyLoc= "95" 
+		popslide="false" 
+		thumbsvis= "true" 
+		thumbsize= "50" 
+		thumbgap= "5"  
+		thumbygap= "10" 
+		blur="20" 
+		reflection="false"
+		popborder="true"
+		sliderdoc = "true"
+		AutoHideControls = "true"
+		Autoplay="false"
+		Sliderdefault="4"
+		>
+	</infoNode>
+</setup>

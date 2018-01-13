@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GALLERY COLUMNS="2" XPOSITION="30" YPOSITION="30" WIDTH="100" HEIGHT="100">
+	<delay val="500"/>
+	<fade val="1"/>
+	<first val="2000"/>
+
+	<frameleft val="20"/>
+	<frameright val="20"/>
+	<frametop val="20"/>
+	<framebottom val="20"/>
+
+	<cols val="4"/>
+	<rows val="2"/>
+	<xpos val="323"/>
+	<ypos val="90"/>
+	<xstep val="160"/>
+	<ystep val="210"/>
+
+	<thumbWidth val="150"/>
+	<thumbHeight val="195"/>
+	<thumbFrameWidth val="3"/>
+	<thumbFrameColor val="0xFFFFFF"/>
+	<thumbFrameAlpha val="0.1"/>
+	<thumbFrameAlphaMax val="1"/>
+
+	<buttonBackX val="860"/>
+	<buttonBackY val="525"/>
+	<buttonForwardX val="900"/>
+	<buttonForwardY val="525"/>
+
+	<grayX val="0"/>
+	<grayY val="0"/>
+	<grayWidth val="960"/>
+	<grayHeight val="558"/>
+	<grayColor val="0x020202"/>
+	<grayAlpha val="0.85"/>
+
+	<fullImageMaxWidth val="670"/>
+	<fullImageMaxHeight val="470"/>
+	<fullImageCenterX val="590"/>
+	<fullImageCenterY val="260"/>
+	<fullImageBorder val="1"/>
+	<fullImageBorderColor val="0xFFFFFF"/>
+	<fullImageBorderAlpha val=".3"/>
+	<fullImageBorderWidth val="5"/>
+
+	<hasTitle val="1"/>
+	<TitleX val="450"/>
+	<TitleY val="505"/>
+	<TitleWidth val="280"/>
+	<TitleHeight val="20"/>
+	<TitleSize val="16"/>
+	<TitleColor val="0xC0C0C0"/>
+	<TitleBorderColor="0x00FF00"/>
+	<hasTitleBorder val="0"/>
+	<hasTitleWrap val="1"/>
+
+	<hasDesc val="1"/>
+	<DescX val="400"/>
+	<DescY val="520"/>
+	<DescWidth val="380"/>
+	<DescHeight val="40"/>
+	<DescSize val="16"/>
+	<DescColor val="0xC0C0C0"/>
+	<DescBorderColor="0x000FF0"/>
+	<hasDescBorder val="0"/>
+	<hasDescWrap val="1"/>
+
+	<maxNumberPages val="20"/>
+
+	<thumbPath val="galthumb/" />
+	<fullPath val="galimages/" />
+
+<IMAGE>
+  <FULL>IMG_6153.Edit.jpg</FULL>
+  <THUMB>IMG_6153.Edit.jpg</THUMB>
+  <TITLE>Exceptional Aesthetics</TITLE>
+  <DESC>charcoal and pastel, 44"x 30", 2012</DESC>
+  <SIZE>1</SIZE>
+</IMAGE>
+<IMAGE>
+  <FULL>IMG_6145.jpg</FULL>
+  <THUMB>IMG_6145.jpg</THUMB>
+  <TITLE>Metal Souvenir</TITLE>
+  <DESC>charcoal and pastel, 40"x 26", 2012</DESC>
+  <SIZE>1</SIZE>
+</IMAGE>
+<IMAGE>
+  <FULL>IMG_6136.Edit.jpg</FULL>
+  <THUMB>IMG_6136.Edit.jpg</THUMB>
+  <TITLE>Harmony</TITLE>
+  <DESC>charcoal and pastel, 44"x 30", 2012</DESC>
+  <SIZE>1</SIZE>
+</IMAGE>
+<IMAGE>
+  <FULL>IMG_4787.Edit.jpg</FULL>
+  <THUMB>IMG_4787.Edit.jpg</THUMB>
+  <TITLE>In The Air</TITLE>
+  <DESC>charcoal and pastel, 41"x 29,5", 2010</DESC>
+  <SIZE>1</SIZE>
+</IMAGE>
+<IMAGE>
+  <FULL>IMG_4792.Edit.jpg</FULL>
+  <THUMB>IMG_4792.Edit.jpg</THUMB>
+  <TITLE>War Piano</TITLE>
+  <DESC>charcoal, pastel, gesso, 41"x 29,5", 2011</DESC>
+  <SIZE>1</SIZE>
+</IMAGE>
+<IMAGE>
+  <FULL>IMG_4846.Edit.jpg</FULL>
+  <THUMB>IMG_4846.Edit.jpg</THUMB>
+  <TITLE>Silver Grand (Black, Gold And Silver)</TITLE>
+  <DESC>charcoal and pastel, 40"x 30", 2011</DESC>
+  <SIZE>1</SIZE>
+</IMAGE>
+<IMAGE>
+  <FULL>IMG_5218.Edit.jpg</FULL>
+  <THUMB>IMG_5218.Edit.jpg</THUMB>
+  <TITLE>Piano Again</TITLE>
+  <DESC>charcoal and pastel, 44"x 30", 2011</DESC>
+  <SIZE>1</SIZE>
+</IMAGE>
+<IMAGE>
+  <FULL>IMG_5310.Edit.jpg</FULL>
+  <THUMB>IMG_5310.Edit.jpg</THUMB>
+  <TITLE>Two (Pianos)</TITLE>
+  <DESC>oil colors, 35"x 24", 2011</DESC>
+  <SIZE>1</SIZE>
+</IMAGE>
+
+</GALLERY>

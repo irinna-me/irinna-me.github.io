@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Keywords" content="kassabova, irina, fine art, music, drawings, paintings" >
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link rel="stylesheet" type="text/css" href="css/main.css" />
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+
+<div class="containedvert"></div>
+<div class="container">
+  <div class="fullsizeflash">
+<!-- TemplateBeginEditable name="Full Size Flash" -->
+<!-- TemplateEndEditable -->
+  </div>
+  <div class="header"> 
+    <!-- end .header --></div>
+  <div class="sidebar1">
+  <div class="sidebartop"> </div>
+  <div class="sidebarmiddle">
+     <h1> FINE ART </h1>
+     <h2> Irina Kassabova </h2>
+  </div>
+    
+    <!-- end .sidebar1 --></div>
+  <div class="content">
+<!-- TemplateBeginEditable name="content" -->
+<!-- TemplateEndEditable -->
+  <!-- end .content --></div>
+  <div class="footer">
+  <div class="footersidebar">
+      <ul class="nav">
+      <li><a href="home.html">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="galleryincolor.html">Gallery</a></li>
+      <li style="float:right;margin-right:0px"><a href="contact.html">Contact</a></li>
+    </ul>
+  </div>
+  <div class="footercontent">
+<!-- TemplateBeginEditable name="footercontent" -->
+  <p> irinna.me </p>
+<!-- TemplateEndEditable -->
+  </div>
+    <!-- end .footer --></div>
+  <!-- end .container --></div>
+</body>
+</html>
